@@ -1,0 +1,16 @@
+{
+  "name": "alcatraz/string",
+  "description": "String Alcatraz Framework.",
+  "authors": [
+    {
+      "name": "Gabriel Malaquias",
+      "email": "g@gmalaquias.com"
+    }
+  ],
+  "keywords": ["alcatraz", "string"],
+  "license": "MIT",
+  "type": "library",
+   "autoload": {
+        "psr-0": { "String\\": "" }
+    }
+}
