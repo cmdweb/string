@@ -10,7 +10,6 @@ namespace Alcatraz\Components\String;
 
 
 class StringHelper {
-
     public static function Contains($string, $contains){
         return (strpos($string, $contains) !== FALSE);
     }
